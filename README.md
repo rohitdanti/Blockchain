@@ -14,9 +14,10 @@ This project involved designing and deploying a private blockchain application f
 
 Key functionalities implemented include:
 
-Ledger Initialization: Preloaded example products to set up the supply chain ledger.
-Product Creation: Added new products with attributes such as name, status, owner, and category.
-Product Updates: Enabled updates to product status, ownership, and other details.
-Ownership Transfer: Facilitated secure transfer of product ownership between entities.
-Product Querying: Implemented retrieval of product details and full ledger listings.
+- Ledger Initialization: Preloaded example products to set up the supply chain ledger.
+- Product Creation: Added new products with attributes such as name, status, owner, and category.
+- Product Updates: Enabled updates to product status, ownership, and other details.
+- Ownership Transfer: Facilitated secure transfer of product ownership between entities.
+- Product Querying: Implemented retrieval of product details and full ledger listings.
+
 The smart contract was deployed and tested on a locally configured Hyperledger Fabric network with Docker containers simulating a multi-organization setup. The project provided hands-on experience with blockchain technologies, including ledger interactions, chaincode deployment, and network automation. It also demonstrated how blockchain can be leveraged for real-world applications in supply chain management.
